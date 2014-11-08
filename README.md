@@ -1,5 +1,6 @@
 Algerian map
 =======================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/Reddine/Algerian-map?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Map of Algeria for jVectorMap and JQVMap jQuery plugin.
 
