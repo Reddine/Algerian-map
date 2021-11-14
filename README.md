@@ -4,11 +4,11 @@ Map of Algeria for jVectorMap and JQVMap jQuery plugins.
 
 # Demo
 
-- [jVectorMap](http://reddine.github.io/Algerian-map/jVectorMap/)
+- [jVectorMap](https://reddine.github.io/Algerian-map/jVectorMap/)
 
-- [JQVMap](http://reddine.github.io/Algerian-map/jQVMap/)
+- [JQVMap](https://reddine.github.io/Algerian-map/jQVMap/)
 
-# How I got the data points :
+# How to reget the data points :
 
 - Get an SVG file of the Algerian political map : https://en.wikipedia.org/wiki/Provinces_of_Algeria#/media/File:DZ-16_(2019).svg
 - Convert the polygons to paths by opening the svg using Inkscape then:
